@@ -1,11 +1,10 @@
 # OnlineMandi ECommerce Website
 
-Welcome to my React and Node tutorial to build a fully-functional e-commerce website exactly like amazon. Open your code editor and follow me for the next hours to build an e-commerce website using MERN stack (MongoDB, ExpressJS, React and Node.JS).
+Welcome to my project. It is a fully-functional e-commerce website. which is developed using MERN stack (MongoDB, ExpressJS, React and Node.JS).
 
 ## Demo Website
 
-- 👉 Heroku : [https://newamazona-final.herokuapp.com](https://newamazona-final.herokuapp.com)
-- 👉 AWS : [https://amazona.webacademy.pro](https://amazona.webacademy.pro)
+- 👉 Heroku : https://onlinemandi.herokuapp.com/
 
 
 ## Overview of the Project
